@@ -1,4 +1,4 @@
-380e650ba5cdded75d91a01391591975 *DESCRIPTION
+87a38d5f8cc7dd5527dc2a3bb8d6755f *DESCRIPTION
 adc08be7dc2e36625e6c670c6572082d *LICENSE
 853a74ce41f5036fbc19a975f6e863bf *NAMESPACE
 5bbdb0385db12fdb34da7e853f230234 *R/add_candidates.R
@@ -6,13 +6,13 @@ ecd9191bc6970abad98fc0b353321557 *R/adjust_candidates.R
 62447878e516bd36cf74e575c67ef198 *R/can_candidate_be_removed.R
 fd2338e06f72549ccf5d4e3fc7160822 *R/get_obj_sizes.R
 ba0e69b05f9210d5376c668ad7c1d750 *R/get_top_candidate_idx.R
-00ea873d539112330baaaafda8f39055 *R/support_functions.R
+333bb7dace563222646eaaff3e2a68de *R/support_functions.R
 189ba9db249e96e691069377c8b9eeb6 *R/trim.R
 1b18813ed9289127c5296b0dd2fb05f0 *R/zzz_global_variables.R
 9ce9f228e0c85ea4219bf310c88f27f9 *build/vignette.rds
 3c7118ea4e7afa8d021d57aebb61ab49 *inst/doc/trimmer.R
 3a47fae65dfa399b5018ef800e98d543 *inst/doc/trimmer.Rmd
-659f56eb1b57c482ecd934dab247a939 *inst/doc/trimmer.html
+89efd1e8a6060439f3a315d95915d147 *inst/doc/trimmer.html
 5d6d02fd7a2cf915f2d393b95aadc896 *man/adjust_candidates.Rd
 dedb85d42fcd7b614f783d5cca898b03 *man/figures/hex_trimmer.png
 9a4ad4993edd038d11c6dddaf34d537e *man/fix_undefined_global_vars.Rd
