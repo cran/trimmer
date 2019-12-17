@@ -1,6 +1,6 @@
 Package: trimmer
 Title: Trim an Object
-Version: 0.7.6
+Version: 0.7.7
 Authors@R: 
     person("Lars",
            "Kjeldgaard",
@@ -21,8 +21,8 @@ Imports: data.table, crayon, cli, pryr
 RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-12-17 10:03:09 UTC; Lars
+Packaged: 2019-12-17 13:43:56 UTC; Lars
 Author: Lars Kjeldgaard [aut, cre]
 Maintainer: Lars Kjeldgaard <lars_kjeldgaard@hotmail.com>
 Repository: CRAN
-Date/Publication: 2019-12-17 12:20:03 UTC
+Date/Publication: 2019-12-17 16:40:02 UTC
